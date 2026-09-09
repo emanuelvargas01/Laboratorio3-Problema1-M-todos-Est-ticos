@@ -50,7 +50,7 @@ Sigue estos pasos y comandos específicos para arrancar la aplicación en tu ent
 Clonar el repositorio:
 
 Bash
-git clone https://github.com/emanuelvargas01/LibroDeCalificaciones4-Hojas-Impresas.git
+git clone https://github.com/emanuelvargas01/Laboratorio3-Problema1-M-todos-Est-ticos.git
 
 
 Autor y Contexto
